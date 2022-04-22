@@ -7,7 +7,7 @@ The background of this script is described in my [arcticle](https://vk.com/@haya
 
 ## How to work:
 1. Put the input images into _'input/'_ folder.
-2. Install **skimage** and **numpy** if necessary, run the script.
+2. Install **skimage** and **numpy** if necessary, run the script **FourierExplorer.py**.
 4. The output images will appear in the _'output/'_ folder.
 
 ![image](https://user-images.githubusercontent.com/38255514/164614177-54cc6244-5c83-468d-a08d-9163213a82ff.png)
